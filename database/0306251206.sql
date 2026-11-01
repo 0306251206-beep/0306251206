@@ -69,6 +69,7 @@ INSERT INTO `lop` (`malop`, `tenlop`, `makhoa`) VALUES
 ('CNTT23C', 'Công nghệ thông tin 23C', 'CNTT'),
 ('CNTT24A', 'Công nghệ thông tin 24A', 'CNTT'),
 ('CNTT24B', 'Công nghệ thông tin 24B', 'CNTT'),
+('CNTT25C', 'Công nghệ thông tin 25C', 'CNTT'),
 ('DDT23A', 'Điện - Điện tử 23A', 'DDT'),
 ('DDT23B', 'Điện - Điện tử 23B', 'DDT'),
 ('DDT23C', 'Điện - Điện tử 23C', 'DDT'),
